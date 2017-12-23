@@ -1,2 +1,2 @@
 # SMS-Spam-Filter
-Natural Language Processing algorithm for effective Spam SMS Detection.
+Use of Natural Language Processing algorithm for classifying Spam/Ham SMS.
